@@ -1,3 +1,3 @@
 # About the CoderFile
 
-You have to know that is difficult to enter to the CoderFile. More info in...
+The CoderFile is a file for coders
